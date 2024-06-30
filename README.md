@@ -15,9 +15,9 @@ The objective of web scraping is to automate the process of extracting large amo
 
 ### Tools Used
 
--BeautifulSoup: A Python library for parsing HTML and XML documents to extract data.
--Requests: A simple HTTP library for Python to make web requests and download web pages.
--Dorks-Eye: a Python3-based tool designed to identify vulnerable links using Google Dorks.
+- BeautifulSoup: A Python library for parsing HTML and XML documents to extract data.
+- Requests: A simple HTTP library for Python to make web requests and download web pages.
+- Dorks-Eye: a Python3-based tool designed to identify vulnerable links using Google Dorks.
 
 
 ## Steps
